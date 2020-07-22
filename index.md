@@ -37,7 +37,7 @@ The strong coupling of an atom to a cavity offers unparalleled control over the 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2Fp74thT54TV.png?alt=media&token=dbb89c68-1e0f-4e73-bb55-fa70f4764441)
 [P. B. R. Nisbet-Jones et al., New J. Phys 13, 103036 (2011).](https://iopscience.iop.org/article/10.1088/1367-2630/13/10/103036/pdf)
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FJwEqlvPau3.png?alt=media&token=b08838f0-0ddd-4370-8388-4fd179123229)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FbGIUxLY7vm.png?alt=media&token=335f2428-f58f-46df-a302-bb599ee316f6)
 [P.B.-R. Nisbet-Jones et al., New J. Phys 15, 053007 (2013)](https://iopscience.iop.org/article/10.1088/1367-2630/15/5/053007/meta)
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FJwEqlvPau3.png?alt=media&token=b08838f0-0ddd-4370-8388-4fd179123229)
