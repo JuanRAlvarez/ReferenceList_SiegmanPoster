@@ -15,9 +15,9 @@ The strong coupling of an atom to a cavity offers unparalleled control over the 
 
 ## Motivation
 
-Single photons produced using ￼$^{87}\text{Rb}$ have proven to produce long photons (~300 ns) with a high degree of control. 
+Single photons produced using <img src="https://render.githubusercontent.com/render/math?math=^{87}\text{Rb}"> have proven to produce long photons (~300 ns) with a high degree of control. 
 
-Generation efficiency of polarized photons needs to be improved further, as the ￼$^{87}\text{Rb} D_2$  line becomes highly nonlinear with the magnetic fields used. 
+Generation efficiency of polarized photons needs to be improved further, as the <img src="https://render.githubusercontent.com/render/math?math=^{87}\text{Rb} D_2"> line becomes highly nonlinear with the magnetic fields used. 
 
 Production of efficient, polarized single photons is necessary to perform cavity based atom-atom entanglement.
 
