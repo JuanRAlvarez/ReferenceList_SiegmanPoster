@@ -30,8 +30,18 @@ Production of efficient, polarized single photons is necessary to perform cavity
 <img src="https://render.githubusercontent.com/render/math?math=\gamma"> : Spontaneous emission rate
 <img src="https://render.githubusercontent.com/render/math?math=\kappa"> : Cavity leakage
 
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FLvCS3sFJjA.png?alt=media&token=2f51dae3-484a-4b2d-8936-afb82247b229)
+
 Dark eigenstate:
 <img src="https://render.githubusercontent.com/render/math?math=\cos (\Theta)|u, 0\rangle-\sin (\Theta)|g, 1\rangle$, where $\tan (\Theta)=\Omega/2 g_{0}.">
 
 <img src="https://render.githubusercontent.com/render/math?math=\Omega \left(t\right)">  allows coherent transfer of population:
 v-STIRAP (vacuum-enhanced STImulated Raman Adiabatic Passage)
+
+## Arbitrary wave packet photons
+
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2Fmhp1bHi94b.png?alt=media&token=54ad5138-c9ae-44c4-b264-c6c7818e7c3a)
+
+## Some applications
+
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FzMf0-l3e2E.png?alt=media&token=a6483e7b-94a2-4c81-8033-e1cf44ab8ea6)
