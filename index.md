@@ -24,12 +24,12 @@ Production of efficient, polarized single photons is necessary to perform cavity
 ## Atoms in cavities
 # Driving with a laser
 
-$g_0$ Atom-cavity coupling
-$\gamma$ Spontaneous emission rate
-$\kappa$ Cavity leakage
+<img src="https://render.githubusercontent.com/render/math?math=g_0"> :  Atom-cavity coupling
+<img src="https://render.githubusercontent.com/render/math?math=\gamma"> : Spontaneous emission rate
+<img src="https://render.githubusercontent.com/render/math?math=\kappa"> : Cavity leakage
 
 Dark eigenstate:
-$\cos (\Theta)|u, 0\rangle-\sin (\Theta)|g, 1\rangle$, where $\tan (\Theta)=\Omega/2 g_{0}.$
+<img src="https://render.githubusercontent.com/render/math?math=\cos (\Theta)|u, 0\rangle-\sin (\Theta)|g, 1\rangle$, where $\tan (\Theta)=\Omega/2 g_{0}.">
 
-$\Omega \left(t\right)$ allows coherent transfer of population:
+<img src="https://render.githubusercontent.com/render/math?math=\Omega \left(t\right)">  allows coherent transfer of population:
 v-STIRAP (vacuum-enhanced STImulated Raman Adiabatic Passage)
