@@ -24,6 +24,8 @@ Production of efficient, polarized single photons is necessary to perform cavity
 ## Atoms in cavities
 # Driving with a laser
 
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FFuxYzlawtT.png?alt=media&token=0a7c9f70-7c63-4dfc-bc68-58ee992a667a)
+
 <img src="https://render.githubusercontent.com/render/math?math=g_0"> :  Atom-cavity coupling
 <img src="https://render.githubusercontent.com/render/math?math=\gamma"> : Spontaneous emission rate
 <img src="https://render.githubusercontent.com/render/math?math=\kappa"> : Cavity leakage
