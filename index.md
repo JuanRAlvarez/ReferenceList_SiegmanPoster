@@ -1,3 +1,5 @@
+## Get the poster [here](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FLb5eVRRGgK.pdf?alt=media&token=dde27d65-3d64-4210-9505-a1c68bdef81c)
+
 ## Abstract
 
 The strong coupling of an atom to a cavity offers unparalleled control over the interaction of quantum states of light and matter. A priori deterministic single photon sources, based on vacuum stimulated Raman processes (V-STIRAP), can leverage this control to produce single photons in a wide range of exotic quantum states, for example, temporally long excitations with arbitrarily shaped wavepackets [[1](https://iopscience.iop.org/article/10.1088/1367-2630/13/10/103036/pdf)]. The importance of polarization in photon routing and quantum networking schemes motivated the pursuit of polarized cavity-based photon sources [[2](https://iopscience.iop.org/article/10.1088/2058-9565/aafaba/pdf)]. However, unforeseen perturbative effects of the magnetic field, required to polarize the emission, limited the efficiency of such schemes [[3](https://iopscience.iop.org/article/10.1088/1367-2630/aad14e/pdf), [4](https://science.sciencemag.org/content/317/5837/488)]. We propose a method to efficiently generate polarized photons by recycling the magnetic state of an 87Rb atom with an additional Raman process. 
@@ -13,35 +15,11 @@ The strong coupling of an atom to a cavity offers unparalleled control over the 
 [4] [T. Wilk, S. C. Webster, A. Kuhn, and G. Rempe, Science 317, 488 (2007).](https://science.sciencemag.org/content/317/5837/488)
 
 
-## Motivation
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FoaW_c41-OG.png?alt=media&token=ce536565-a630-4a9c-bfcd-a31462f2c7cf)
 
-Single photons produced using <img src="https://render.githubusercontent.com/render/math?math=^{87}\text{Rb}"> have proven to produce long photons (~300 ns) with a high degree of control. 
 
-Generation efficiency of polarized photons needs to be improved further, as the <img src="https://render.githubusercontent.com/render/math?math=^{87}\text{Rb} D_2"> line becomes highly nonlinear with the magnetic fields used. 
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2Ff54zODSWwh.png?alt=media&token=f9d9d080-2066-45f0-aa76-86142e94e774)
 
-Production of efficient, polarized single photons is necessary to perform cavity based atom-atom entanglement.
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2Fq383-32E9R.png?alt=media&token=e29d76a3-8dd9-4bba-8b69-40a1da939283)
 
-## Atoms in cavities
-# Driving with a laser
-
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FFuxYzlawtT.png?alt=media&token=0a7c9f70-7c63-4dfc-bc68-58ee992a667a)
-
-<img src="https://render.githubusercontent.com/render/math?math=g_0"> :  Atom-cavity coupling
-<img src="https://render.githubusercontent.com/render/math?math=\gamma"> : Spontaneous emission rate
-<img src="https://render.githubusercontent.com/render/math?math=\kappa"> : Cavity leakage
-
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FLvCS3sFJjA.png?alt=media&token=2f51dae3-484a-4b2d-8936-afb82247b229)
-
-Dark eigenstate:
-<img src="https://render.githubusercontent.com/render/math?math=\cos (\Theta)|u, 0\rangle-\sin (\Theta)|g, 1\rangle$, where $\tan (\Theta)=\Omega/2 g_{0}.">
-
-<img src="https://render.githubusercontent.com/render/math?math=\Omega \left(t\right)">  allows coherent transfer of population:
-v-STIRAP (vacuum-enhanced STImulated Raman Adiabatic Passage)
-
-## Arbitrary wave packet photons
-
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2Fmhp1bHi94b.png?alt=media&token=54ad5138-c9ae-44c4-b264-c6c7818e7c3a)
-
-## Some applications
-
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FiqPSC9IF-a.png?alt=media&token=b4fe9817-5810-460f-a51d-48658a896cf2)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2Fjen-d2RZ_K.png?alt=media&token=e23360d9-5667-46fb-a616-abc6d3018f7b)
