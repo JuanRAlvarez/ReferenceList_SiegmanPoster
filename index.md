@@ -44,4 +44,4 @@ v-STIRAP (vacuum-enhanced STImulated Raman Adiabatic Passage)
 
 ## Some applications
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FzMf0-l3e2E.png?alt=media&token=a6483e7b-94a2-4c81-8033-e1cf44ab8ea6)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FjuanraPhD%2FiqPSC9IF-a.png?alt=media&token=b4fe9817-5810-460f-a51d-48658a896cf2)
